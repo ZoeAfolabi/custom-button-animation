@@ -3,8 +3,8 @@
 }
 
 :root{
-    --bg: hsl(0 0% 6%);
-    --fg: hsl(0 0% 90%);
+    --bg: #FFFFFF;
+    --fg: #231663;
 }
 
 body{
