@@ -61,7 +61,7 @@ button .back{
 .back > span{
     left: calc(var(--x,0) * 1px);
     top: calc(--y,0) * 1px;
-    width: 100%;
+    width: 50%;
     display: inline-block;
     aspect-ratio: 1;
     transform: translate(-50%, -50%) scale(var(--active, 0));
